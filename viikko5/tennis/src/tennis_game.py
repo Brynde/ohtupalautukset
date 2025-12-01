@@ -13,7 +13,6 @@ class TennisGame:
             self.player2_score += 1
 
     def get_score(self):
-        score = ""
         score1 = self.player1_score
         score2 = self.player2_score
 
